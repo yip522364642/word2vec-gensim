@@ -1,0 +1,1 @@
+text8_word2vec.model filter=lfs diff=lfs merge=lfs -text
